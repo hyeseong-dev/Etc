@@ -53,7 +53,7 @@ for review in reviews:
     dlp_cmnt = None
     dc_div = soup.find('div',class_='LVQB0b')
     if dc_div:
-        dlp_cmnt = dc_div.text.replace('\n', ' ')
+        dlp_cmnt = dc_div.text.replace('/n', ' ')
 
     df = df.append({
     'user_name': user_name,
