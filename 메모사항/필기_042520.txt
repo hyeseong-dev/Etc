@@ -1,0 +1,11 @@
+[4월25일]
+    
+    [의문사항]  
+        1. 중첩 리스트(Nested List Comprehensions) 잘 모르겠음
+            참고 : https://docs.python.org/3/tutorial/datastructures.html
+        
+        2. 
+
+    [목표치]
+        1. python reference, 9.Classes까지 필기 및 공부
+
