@@ -1,0 +1,20 @@
+<2020년4월 22일 >
+
+I. 명령어 
+        윈도우 Shortcut: 
+
+        VScode Shortcut :
+
+II. 궁금한 사항: 
+                pandas의 Series와 DataFrame의 차이?
+                                                    참고: https://tariat.tistory.com/206
+III.  유용한 웹 사이트 : 
+                1. Elpore Census Data 
+                        참고: https://data.census.gov/cedsci/?intcmp=aff_cedsci_banner
+IV.
+V. 
+VI.
+VII. 
+VIII. 
+VX
+X

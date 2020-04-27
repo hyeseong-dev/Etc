@@ -30,3 +30,4 @@ II. [가상 환경]
   # 마치 웹사이트의 패키지몇, 버전, 유형, 플랫폼들이 열거되어 나타남
 
 셋째, conda install --channel http://conda.anaconda.org/CogSci pygame
+
