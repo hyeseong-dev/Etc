@@ -11,6 +11,14 @@ I. [패키지 처리]
 
      - conda remove -n env pygame 
         (가상환경에 진입해 있지 않을 때)
+        
+        3.1 pip로 지우려면, pip uninstall 패키지명 하길
+
+    4. 가상환경 생성과 동시에 패키지 설치 
+       
+      -  conda create -n 가상환경이름 python=버전 패키지이름
+      -  conda create -n pyqt_env python=3.7 pyqt5
+      
 II. [가상 환경] 
     1. 가상환경 생성
     - conda create -n 가상환경명
@@ -22,6 +30,9 @@ II. [가상 환경]
      - conda remove --name 패키지명 --all
             참고: 출처 : https://leebaro.tistory.com/entry/anaconda%EC%97%90%EC%84%9C-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0
 
+    4. 최신번저 업데이트 
+      - conda update --name="base" --channel="defaults" conda
+      - conda update -n base -c defaults conda
 
 에러 사항 해결법 
 첫째, conda install anaconda-client
