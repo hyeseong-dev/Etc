@@ -1,171 +1,185 @@
-CTRL+SHIFT+P - show the command palette
-CTRL+k CTRL+T - show the lists of themes
-CTRL+T - Finding a class, function or variable in all files.
-CTRL+K Z - Toggle Zen Mode
-Zen Mode and Select Line
-CTRL+L - Select the current line in the cursor.
-CTRL+R - Reload window
-CTRL+` - Toggle the terminal window
-CTRL+SHIFT+` - Create a new terminal instance
-CTRL+P - Find a specific file in your current folder
-CTRL+K CTRL+Z - Comment a block of code
-Comment-Uncomment
-CTRL+K CTRL+U - Uncomment a block of code
+?? ??
 
-CTRL+, - Go to user settings
-user settings and keyboard shortcuts
-Ctrl+K CTRL+S - Go to keyboard shortcuts
+  Ctrl+X            ? ?? (????)
+  Ctrl+C            ? ??
+  Ctrl+Shift+K      ? ??
+  Ctrl+Enter        ?? ?? ?? ??
+  Ctrl+Shift+Enter  ?? ??? ?? ??
+  Alt+Down          ? ??? ??
+  Alt+Up            ? ?? ??
+  Shift+Alt+Down    ??? ??? ??
+  Shift+Alt+Up      ??? ?? ??
+  Ctrl+D            ?? ??? ???? ??
+  Ctrl+K Ctrl+D     ?? ?? ?? ?? ?? ?? ?? ??? ??
+  Ctrl+U            ?? ?? ?? ??
+  Shift+Alt+I       ?? ??? ?? ? ? ?? ?? ??? ??
+  Ctrl+Shift+L      ?? ?? ??? ??? ?? ?? ??
+  Ctrl+F2           ??? ??? ??? ?? ??? ??
+  Ctrl+I            ??? ??? ?? ??
+  Ctrl+Alt+Down     ?? ?? ???
+  Ctrl+Alt+Up       ?? ?? ??
+  Ctrl+Shift+\      ???? ??? ??    
+  Ctrl+]            ?? ????
+  Ctrl+[            ?? ????
+  Home              ?? ????
+  End               ?? ???
+  Ctrl+End          ??? ? ???
+  Ctrl+Home         ??? ? ????
+  Ctrl+Down         ??? ?? ???? ??
+  Ctrl+Up           ??? ?? ???? ???
+  Alt+PageDown      ??? ?? ? ??? ??
+  Alt+PageUp        ??? ?? ? ??? ???
+  Ctrl+Shift+[      ??? ?? ?? ??
+  Ctrl+Shift+]      ?? ?? ?? ?
+  Ctrl+K Ctrl+[     ???? ?? ?? ??
+  Ctrl+K Ctrl+]     ???? ?? ?? ?
+  Ctrl+K Ctrl+0     ??? ?? ?? ??
+  Ctrl+K Ctrl+J     ??? ?? ?? ?
+  Ctrl+K Ctrl+C     ? ?? ???? ??
+  Ctrl+K Ctrl+U     ?? ??
+  Ctrl+/            ?? ??
+  Shift+Alt+A       ?? ?? /**/ ?? ??
+  Ctrl+F            ??
+  Ctrl+H            ?? ???
+  F3                ?? ??
+  Shift+F3          ??? ??
+  Alt+Enter         ?? ??? ?? ??? ?? ??, ????
+  Alt+C             ?? ? ???? ?? ??
+  Alt+R             Toggle Find Regex
+  Alt+W             ??? ? ??? ??
+  Ctrl+M            Toggle Use of Tab Key for Setting Focus
+  unassigned        Toggle Render Whitespace
+  Alt+Z             ?? ??? ??
 
-Ctrl+F - Find
-Ctrl+H - Replace
-Find,Replace and Replace All
-Ctrl+Shift+Enter - Replace All
+?? ?? ??
 
-ALT+Enter - Select all occurrences of Find match
-Alt+Enter
+  Ctrl+Space        ?? ?? ??
+  Ctrl+Shift+Space  Trigger Parameter Hints
+  Shift+Alt+F       Format Document
+  Ctrl+K Ctrl+F     Format Selection
+  F12               Go to Definition
+  Alt+F12           Peek Definition
+  Ctrl+K F12        Open Definition to the Side
+  Ctrl+.            Quick Fix
+  Shift+F12         Show References
+  F2                Rename Symbol
+  Ctrl+Shift+.      Replace with Next Value
+  Ctrl+Shift+,      Replace with Previous Value
+  Shift+Alt+Right   Expand AST Select
+  Shift+Alt+Left    Shrink AST Select
+  Ctrl+K Ctrl+X     Trim Trailing Whitespace
+  Ctrl+K M          Change Language Mode
 
- 
-ALT - Show definition
-Alt and F12
-F12 - Goto definition
+??
 
-CTRL+= - Zoom In
-Alt Text
-CTRL+- - Zoom Out
+  Ctrl+T            Show All Symbols
+  Ctrl+G            ???? ??
+  Ctrl+P            Go to File..., Quick Open
+  Ctrl+Shift+O      Go to Symbol...
+  Ctrl+Shift+M      Show Problems
+  F8                Go to Next Error or Warning
+  Shift+F8          Go to Previous Error or Warning
+  Ctrl+Shift+P      ?? ??? ??
+  Ctrl+Shift+Tab    Navigate Editor Group History
+  Alt+Left          ?? ??? ?? ??
+  Alt+Right         ?? ??? ??? ??
 
- 
 
-Shift+UpArrow - select all code one line up
-Shift UpArrow and DownArrow
-Shift+DownArrow - select all code one line down
+??? ? ??
 
-ALT+UpArrow - Move the selected code one line up
-Alt UpArrow and DownArrow
-ALT+DownArrow - Move the selected code one line down
+  Ctrl+Shift+N          ? ? ??
+  Ctrl+W                ?? ? ??
+  Ctrl+F4               ???? ??
+  Ctrl+K F              ?? ?? ??
+  Ctrl+\                ? ?? ???
+  Ctrl+1                1? ??? ??
+  Ctrl+2                2? ??? ??
+  Ctrl+3                3? ??? ??
+  Ctrl+K Ctrl+Left      ?? ??? ??
+  Ctrl+K Ctrl+Right     ??? ??? ??
+  Ctrl+Shift+PageUp     Move Editor Left
+  Ctrl+Shift+PageDown   Move Editor Right
+  Ctrl+K Left           ?? ??? ??
+  Ctrl+K Right          ??? ??? ??
 
-ALT+SHIFT+UpArrow - Copy the selected code one line up
-ALT+SHIFT UpArrow And DownArrow
-ALT+SHIFT+DownArrow - Copy the selected code one line down
+?? ???
 
-CTRL+B - Toggle Sidebar
-CTRL+SHIFT+X - Show Extensions
-CTRL+SHIFT+G - Show Source Control
-CTRL+SHIFT+E - Show File Explorer
-CTRL+SHIFT+D - Show Debug
-SideBars
+  Ctrl+N            ? ??
+  Ctrl+O            ?? ??
+  Ctrl+S            ??
+  unassigned        Save All
+  Ctrl+Shift+S      ?? ???? ??
+  Ctrl+F4           ???? ??
+  unassigned        Close Others
+  Ctrl+K W          Close Group
+  unassigned        Close Other Groups
+  unassigned        Close Group to Left
+  unassigned        Close Group to Right
+  Ctrl+K Ctrl+W     ?? ? ??
+  Ctrl+Shift+T      Reopen Closed Editor
+  Ctrl+K Enter      Keep Open
+  Ctrl+Tab          Open Next
+  Ctrl+Shift+Tab    Open Previous
+  Ctrl+K P          Copy Path of Active File
+  Ctrl+K R          Reveal Active File in Windows
+  Ctrl+K O          Show Opened File in New Window
+  unassigned        Compare Opened File With
 
- 
-CTRL+SHIFT+V - Preview Markdown
-Preview md
+???
 
-Editing or Adding new Keyboard Shortcuts
-Ok, let's edit and add some keyboard shortcuts.
+  F11               ?? ?? ??
+  Ctrl+K Z          ?? ?? ??
+  Escape Escape     ?? ?? ?? ???
+  Ctrl+=            ?? ??
+  Ctrl+-            ?? ??
+  Ctrl+Numpad0      ?? ?? ???
+  Ctrl+B            ??? ?? ??? ??
+  Ctrl+Shift+E      Show Explorer / Toggle Focus
+  Ctrl+Shift+D      Show Debug
+  Ctrl+Shift+G      Show Git
+  Ctrl+Shift+X      Show Extensions
+  Ctrl+Shift+U      Show Output
+  Ctrl+Q            Quick Open View
+  Ctrl+Shift+F      Show Search
+  Ctrl+Shift+H      Replace in Files
+  Ctrl+Shift+J      Toggle Search Details
+  Ctrl+Shift+C      Open New Command Prompt
+  Ctrl+Shift+V      Toggle Markdown Preview
+  Ctrl+K V          Open Preview to the Side
+  Ctrl+`            Toggle Integrated Terminal
 
-Click on the editor then in your keyboard perform this command CTRL+P then type keybindings.json.
+Preferences
 
-Keybindings.json
+  unassigned    Open User Settings
+  unassigned    Open Workspace Settings
+  Ctrl+K Ctrl+S Open Keyboard Shortcuts
+  unassigned    Open User Snippets
+  Ctrl+K Ctrl+T Select Color Theme
+  unassigned    Configure Display Language
 
-Ok, I'm gonna change my Reload Window command from CTRL+R to CTRL+E
-and I'm gonna add two new commands Git Commit and Git Init.
-updated keybindings.json
+Debug
 
-You must have git installed in your computer to add does two last commands.
-You can find all the when possible values here.
-There's a lot of commands in VSCode that you can edit or change.
-All the commands that are available in your editor. Do this command
-Ctrl+K CTRL+S. But watch out, if you add or edit a new command with a new keybinding that keybinding must not exist in the current commands.
+  F9            Toggle Breakpoint
+  F5            Start
+  F5            Continue
+  Ctrl+F5       Start (without debugging)
+  F6            Pause
+  F11           Step Into
+  Shift+F11     Step Out
+  F10           Step Over
+  Shift+F5      Stop
+  Ctrl+K Ctrl+I Show Hover
 
-Extensions that I use
-1. Auto Import
-Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX. This extension finds the file path for you isn't that amazing.
+Tasks
 
-Auto Import Preview
+  Ctrl+Shift+B  Run Build Task
+  unassigned    Run Test Task
 
-2. Auto Rename Tag
-Auto rename paired HTML/XML tag. This works in JSX too.
-Auto Rename Preview
+Extensions
 
-3. Bracket Pair Colorizer
-A customizable extension for colorizing matching brackets. If you have a problem in finding the end pair of a bracket or a curly brace then this extension is perfect for you.
-Bracket Pair Colorizer Preview
-
-4. Code Time
-Code Time is an open-source plugin that provides programming metrics right in Visual Studio Code. Find out the amount of time you spent coding in a day and a week and what languages that you spent your time most.
-Code Time Review
-
-5. CSS Peek
-Allow peeking to CSS ID and class strings as definitions from HTML files to respective CSS. Allows peek and goto definition.
-Alt Text
-
-6. DotENV
-Highlights key, value pairs in .env files.
-
-7. Highlight Matching Tag
-Highlights matching closing or opening tag.
-Highlight Matching Tag Preview
-
-8. IntelliSense for CSS class names in HTML
-CSS class name completion for the HTML class attribute based on the definitions found in your workspace. If you sometimes forgot your CSS classes then this extension is perfect for you.
-IntelliSense for CSS class names in HTML Preview
-
-9. Live Server
-Launch a development local Server with live reload feature for static & dynamic pages.
-
-10. Material Icon Theme
-Material Design Icons for Visual Studio Code
-
-11. Material Theme
-The most epic theme now for Visual Studio Code
-
-12 One Dark Pro
-Atom's iconic One Dark theme for Visual Studio Code
-
-13 dark-plus-syntax
-VS Code's default dark theme, but just a little bit better.
-
-14 Noctis
-Noctis is a collection of light & dark themes with a well-balanced blend of warm and cold colors
-
-15 Python
-Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
-
-16 ES7 React/Redux/GraphQL/React-Native snippets
-Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
-
-17 Vetur
-Vue tooling for VS Code
-
-18 Polacode-2019
-Take a picture of your code.
-
-19 Chronicler
-Take a video of yourself coding while coding.
-Chronicler Preview
-
-20 TSLint
-TSLint support for Visual Studio Code
-
-21 GitLens — Git supercharged
-Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-
-22 Dracula Official
-Official Dracula Theme. A dark theme for many editors, shells, and more. If you like python. You'll love this.
-
-23 Import Cost
-Display import/require package size in the editor
-
-24 Log File Highlighter
-If you want to easily read a log file then you need this.
-Log File Highlighter Preview
-
-25 Slack Theme
-Color scheme inspired by Slack's default themes
-
-26 Docker
-Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files. I haven't used docker but I heard that it's a great technology and I hope in the future that I will use it.
-
-27 Debugger for Chrome
-Do you want to debug your React code in VSCode then get this extension. Debug your JavaScript code in the Chrome browser or any other target that supports the Chrome Debugger protocol.
-
-28 Code Runner
-Run your code snippet in one command.
+  unassigned    Install Extension
+  unassigned    Show Installed Extensions
+  unassigned    Show Outdated Extensions
+  unassigned    Show Recommended Extensions
+  unassigned    Show Popular Extensions
+  unassigned    Update All Extensions
