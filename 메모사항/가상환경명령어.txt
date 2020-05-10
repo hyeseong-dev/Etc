@@ -27,7 +27,7 @@ II. [가상 환경]
      - conda install --name 패키지명
 
     3. 가상환경 삭제 
-     - conda remove --name 패키지명 --all
+     - conda remove --name 가상환경명 --all
             참고: 출처 : https://leebaro.tistory.com/entry/anaconda%EC%97%90%EC%84%9C-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0
 
     4. 최신번저 업데이트 
